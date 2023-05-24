@@ -1,0 +1,29 @@
+.meni{
+    margin: 0;
+    display:flex;
+    width: 100%;
+    height: 75px;
+    background-color: rgb(128,128,128,0.5);
+    list-style-type: none;
+    justify-content: center;
+    align-items: center;
+}
+
+.meni li{
+   padding-right: 5%;
+    font-size: 26px;
+    /* margin-left: 5%; */
+}
+
+.meni li:first-of-type{
+    margin-right: 5%;
+    font-size: 26px;
+    border-right: 1px solid black;
+
+    /* margin-left: 5%; */
+}
+
+a{
+    text-decoration: none;
+    color: inherit;
+}
