@@ -1,4 +1,6 @@
 .improve{
+    display: flex;
+    justify-content: center;
     position:relative;
     margin-top: 130px;
     margin-left: auto;
@@ -9,7 +11,5 @@
     border-radius: 15%;
     font-size: 36px;
     border: 1px solid black;
-    text-align: center;
     align-items: center;
-    vertical-align: middle;
 }
