@@ -3,11 +3,11 @@
     display: flex;
     justify-content: center;
     position:absolute;
-    width: 500px;
-    height: 250px;
+    width: 350px;
+    height: 175px;
     background-color: rgb(200,200,200,0.6);
     border-radius: 50%;
-    font-size: 18px;
+    font-size: 14.5px;
     border: 1px solid black;
     align-items: center;
 }
@@ -18,16 +18,16 @@
 }
 
 .b2{
-    left: 750px;
+    left: 600px;
     top: 130px;
 }
 
 .b3{
     left: 600px;
-    top: 600px;
+    top: 20px;
 }
 
 .b4{
     right: 100px;
-    bottom: 260px;
+    bottom: 150px;
 }
